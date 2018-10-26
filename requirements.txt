@@ -1,0 +1,11 @@
+flask
+flask-mail
+sqlalchemy
+flask-sqlalchemy
+sqlalchemy-migrate
+flask-whooshalchemy
+flask-wtf
+pytz
+flask-babel
+flup
+pydocumentdb
